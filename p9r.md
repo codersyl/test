@@ -1,2 +1,2 @@
 ok from p9r
-second things
+device-p9r
